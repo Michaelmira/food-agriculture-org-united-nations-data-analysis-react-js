@@ -1,3 +1,18 @@
+# Process to connect your front end to external large database.
+
+### Website Url
+https://www.themoviedb.org/u/michaelmira
+
+### Documentation
+https://developer.themoviedb.org/reference/intro/getting-started
+
+1. Log in Create account
+2. Get an API_KEY and/or Get API_READ_ACCESS_TOKEN aka "Bearer " Token
+3. Open Documentation, Get BACKEND_URL @ Test API Key In POSTMAN with an endpoint.
+
+
+
+
 # WebApp boilerplate with React JS and Flask API
 
 Build web applications using React.js for the front end and python/flask for your backend API.
