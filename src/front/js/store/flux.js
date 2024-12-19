@@ -19,7 +19,7 @@ const getState = ({ getStore, getActions, setStore }) => {
 					}
 				})
 				const data = await response.json()
-				setStore({ movies: data.movies })
+				setStore({ movies: data })
 				return data
 			},
 
